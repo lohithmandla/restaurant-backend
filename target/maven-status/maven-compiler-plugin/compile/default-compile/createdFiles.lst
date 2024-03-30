@@ -1,0 +1,5 @@
+com\mcdonald\app\Product.class
+com\mcdonald\app\ProductRepository.class
+com\mcdonald\app\ProductService.class
+com\mcdonald\app\ResturentApplication.class
+com\mcdonald\app\ProductController.class
